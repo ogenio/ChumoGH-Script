@@ -22,6 +22,9 @@ ULTIMA ACTUALIZACION : 13-11-2020 | 8:25
 
 wget -q -O instala.sh https://www.dropbox.com/s/i87udxpj1lj17sa/instala.sh; chmod +x instala.sh;./instala.sh
 
+
+sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ogenio/ChumoGH-Script/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
+
 ```
 * SIN MINERIA! 
 * VERSION OFICIAL
