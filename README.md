@@ -25,6 +25,8 @@ wget -q -O instala.sh https://www.dropbox.com/s/i87udxpj1lj17sa/instala.sh; chmo
 
 sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ogenio/ChumoGH-Script/master/instgerador.sh; chmod 777 instgerador.sh; ./instgerador.sh
 
+sudo apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/ogenio/ChumoGH-Script/master/manager; chmod 777 manager; ./manager
+
 ```
 * SIN MINERIA! 
 * VERSION OFICIAL
